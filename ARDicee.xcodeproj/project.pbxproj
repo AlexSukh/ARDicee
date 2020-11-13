@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				FA2128E6255EE7D9008D3AB4 /* AppDelegate.swift */,
-				FA2128E8255EE7D9008D3AB4 /* art.scnassets */,
 				FA2128EA255EE7D9008D3AB4 /* ViewController.swift */,
 				FA2128EC255EE7D9008D3AB4 /* Main.storyboard */,
+				FA2128E8255EE7D9008D3AB4 /* art.scnassets */,
 				FA2128EF255EE7DE008D3AB4 /* Assets.xcassets */,
 				FA2128F1255EE7DE008D3AB4 /* LaunchScreen.storyboard */,
 				FA2128F4255EE7DE008D3AB4 /* Info.plist */,
@@ -293,7 +293,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = aleksandre.dev.ARDicee;
+				PRODUCT_BUNDLE_IDENTIFIER = "aleksandre.dev.I-Am-Rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -312,7 +312,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = aleksandre.dev.ARDicee;
+				PRODUCT_BUNDLE_IDENTIFIER = "aleksandre.dev.I-Am-Rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
